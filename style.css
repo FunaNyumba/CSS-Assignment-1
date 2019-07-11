@@ -1,0 +1,31 @@
+p {
+	color: red;
+
+}
+
+#para1 {
+	color:yellow;
+	border:red dotted 4px;
+	border-right: none;
+	border-left: none;
+	border-bottom: none;
+}
+
+.colortext {
+	color: green;
+	font-style: italic;
+}
+
+h1 {
+	color: orange;
+}
+body {
+	background-image:url("rewa.gif");
+}
+#weree {
+	border:10px solid green;
+}
+#second {
+	text-align: center;
+	border-style: double;
+}
